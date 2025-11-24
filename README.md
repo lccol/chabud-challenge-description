@@ -8,7 +8,7 @@ Consider that a more complete dataset is available [here](https://huggingface.co
 
 
 # Announcements
-- May 8, 2023: **Public leaderboard is online!** You can now submit your predictions and check the (public) leaderboard! You can find instructions under the `Dataset` tab.
+- May 8, 2023: **Public leaderboard is online!** You can now submit your predictions and check the (public) leaderboard! You can find instructions [here](DATASET_DESCRIPTION.md).
 - April 11, 2023: **Competition starts!** Data is made publicly available to participants! **Submission page will be enabled in the following days.**
 
 
